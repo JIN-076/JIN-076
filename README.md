@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JIN-076&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/JIN-076?pet-id=674279001439426449"
+    width="600"
+    height="120"
+  />
+</a>
+
 <!--
 **JIN-076/JIN-076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
