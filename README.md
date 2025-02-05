@@ -1,14 +1,4 @@
-## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIN-076&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JIN-076&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/JIN-076?pet-id=674484124711217603"
-    width="600"
-    height="120"
-  />
-</a>
+<h1 align="center">Jiin Hong</h1>
 
 <!--
 **JIN-076/JIN-076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIN-076&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JIN-076&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/JIN-076?pet-id=674484124711217603"
+      width="600"
+      height="120"
+    />
+  </a>
+</p>
 
 🌱 **currently learning...**
 
