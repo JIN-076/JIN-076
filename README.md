@@ -34,6 +34,35 @@ Here are some ideas to get you started:
 
 <br>
 
+🎓 **Learning & Experiences**
+
+<table>
+  <thead>
+    <tr>
+      <th>Period</th>
+      <th>Institution</th>
+      <th>Work</th>
+      <th>Remarks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2023.09 - 2024.03</td>
+      <td align="center">Programmers</td>
+      <td align="center">Cloud-Native Backend Engineering DevCourse 5th</td>
+      <td align="center"><a href="">Go to</a></td>
+    </tr>
+    <tr>
+      <td align="center">2021.03 - 2022.05</td>
+      <td align="center">Inovation Academy</td>
+      <td align="center">42Seoul Core Program</td>
+      <td align="center"><a href="">Go to</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ## Skills
 
 📌 **Core Technologies**
