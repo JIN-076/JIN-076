@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 🌱 **currently learning...**
 
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-plastic&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-plastic&logo=gitlab&logoColor=white"/></a>
+<a href="https://gitlab.com/jiinhong989/e-commerce-server/-/tree/dev" target="_blank">
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-plastic&logo=gitlab&logoColor=white"/></a>
+</a>
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-plastic&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white"/></a>
 
