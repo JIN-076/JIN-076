@@ -77,17 +77,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/java 17-FF4800?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot 3.2-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security 6.2-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/OAuth2-5D83AC?style=for-the-badge&logo=autoit&logoColor=white">
-<img src="https://img.shields.io/badge/JWT 4.4-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/QueryDsl 5.1-4169E1?style=for-the-badge&logo=QueryDsl&logoColor=white">
 <img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/WebSocket STOMP-999999?style=for-the-badge&logo=Rocket&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Retry-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 <br>
 
@@ -97,17 +92,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
 <img src="https://img.shields.io/badge/GCP Cloud Engine-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> 
 <img src="https://img.shields.io/badge/GCP Cloud SQL-527FFF?style=for-the-badge&logo=Google Cloud&logoColor=white">
-<img src="https://img.shields.io/badge/GCP Secret Manager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white">
-<img src="https://img.shields.io/badge/GCP Storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
 <img src="https://img.shields.io/badge/Mongo Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Docker Compose-6933FF?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Loki-f6bf21?style=for-the-badge&logo=Loki&logoColor=white">
 
 <br>
 
@@ -118,17 +107,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TestContainers-29BEB0?style=for-the-badge&logo=testcontainers&logoColor=white">
 <img src="https://img.shields.io/badge/RestDocs-65C179?style=for-the-badge&logo=restdocs&logoColor=white">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-
-<br>
-
-📌 **Collaboration & Tools**
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white">
 
 <br>
 
