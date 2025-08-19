@@ -75,9 +75,11 @@ Here are some ideas to get you started:
 
 📌 **Core Technologies**
 
-<img src="https://img.shields.io/badge/java 17-FF4800?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot 3.2-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security 6.2-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/java 17-FF4800?style=for-the-badge&logo=openjdk&logoColor=white"> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://img.shields.io/badge/Spring Boot 3.2-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 <img src="https://img.shields.io/badge/QueryDsl 5.1-4169E1?style=for-the-badge&logo=QueryDsl&logoColor=white">
 <img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -90,13 +92,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
-<img src="https://img.shields.io/badge/GCP Cloud Engine-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> 
-<img src="https://img.shields.io/badge/GCP Cloud SQL-527FFF?style=for-the-badge&logo=Google Cloud&logoColor=white">
+![GCP Cloud Engine](https://img.shields.io/badge/GCP%20Cloud%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP Cloud SQL](https://img.shields.io/badge/GCP%20Cloud%20SQL-527FFF?style=for-the-badge&logo=googlecloud&logoColor=white)
 <img src="https://img.shields.io/badge/Mongo Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Docker Compose-6933FF?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br>
 
