@@ -1,5 +1,11 @@
 <h1 align="center">Jiin Hong</h1>
 
+<p align="center">
+  <a href="https://jin-076.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Backend_Portfolio-Open-5C6BC0?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 <!--
 **JIN-076/JIN-076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
